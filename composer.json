@@ -1,0 +1,11 @@
+{
+    "name": "milesbarcena303/product",
+    "description": "A simple api for carss",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Miles Allen S. Barcena"
+        }
+    ],
+    "require": {}
+}
